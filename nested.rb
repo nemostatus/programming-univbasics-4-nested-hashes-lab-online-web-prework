@@ -134,5 +134,6 @@ def adding_to_dennis
         }
      }
     programmer_hash[:dennis_ritchie][:languages] =  ["Smalltalk","Assembly", "LISP"]
+    return programmer_hash
 
 end
